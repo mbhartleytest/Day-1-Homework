@@ -1,0 +1,66 @@
+@import url(http://fonts.googleapis.com/css?family=Exo+2);
+
+body {
+ margin: 0;
+ padding: 0;
+ font-family: 'Exo 2', sans-serif;
+}
+
+body * {
+	vertical-align: top;
+}
+
+.container {
+	display: inline-block;
+	width: 850px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.header {
+	background-color: rgb(24, 54, 76);
+}
+
+.header h1 {
+	color: rgb(244, 124, 76);
+	font-size: 66px;
+	text-align: left;
+	height: 40px;
+	padding-top: 30px;
+}	
+
+.header h3 {
+	color: rgb(244, 124, 76);
+	font-size: 28px;
+}
+
+.main {
+	display: inline-block;
+	font-size: 18px;
+}
+
+.main h1 {
+height: 22px;
+}
+
+.sidebar {
+	display: inline-block;
+	background-color: rgb(244, 124, 76); 
+	font-size: 24px;
+	width: 168px;
+	height: 601px;
+	padding-left: 32px;
+	padding-right: 0px;
+	padding-top: 20px;
+	margin-top: 32px;
+	margin-bottom: 32px;
+	margin-left: 20px;
+    
+}
+
+
+
+
+
+
+
